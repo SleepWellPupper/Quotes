@@ -1,5 +1,7 @@
 # Quotes
 
+> But to offer these freedoms, you have to trust the person operating your system, honour their agency, and respect them as a serious intellectual partner instead of a gibbering idiot to be manipulated for your own ends.
+>
 > ⁃ Does the “user” feel respected by the software?
 > 
 > ⁃ How does this software affect the mental health of the “user”?
